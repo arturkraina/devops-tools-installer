@@ -1,4 +1,4 @@
-# DevOps Tools Installer v4.0
+# DevOps Tools Installer
 
 Comprehensive PowerShell script for automated installation of DevOps, Cloud, and Infrastructure tools on Windows.
 
